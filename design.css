@@ -1,0 +1,50 @@
+body {
+    background-color: #222; /* Dark background color */
+    color: #fff; /* Text color */
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    background-color: #333; /* Header background color */
+    text-align: center;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+h1 {
+    font-size: 36px;
+    color: #fff;
+}
+
+.about-us, .features, .images {
+    background-color: #333;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+h2 {
+    font-size: 24px;
+}
+
+p {
+    line-height: 1.4;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+.contents {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background-color: #333;
+    padding: 10px;
+    text-align: center;
+}
